@@ -11,5 +11,6 @@ In the project directory run:
 #### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#Local Display:
-![ Alt text](name-of-gif-file. gif) / ! [](name-of-gif-file. gif)
+##### Local Display:
+
+![](https://github.com/RoySchor/react_tic_tac_toe/blob/main/tic-tac-toe.gif)
