@@ -10,3 +10,6 @@ https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
 In the project directory run:
 #### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+#Local Display:
+![ Alt text](name-of-gif-file. gif) / ! [](name-of-gif-file. gif)
